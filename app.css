@@ -38,8 +38,8 @@ textarea:focus {
 
 button {
   font: inherit;
-  background: red;
-  border: 1px solid red;
+  background: green;
+  border: 1px solid black;
   cursor: pointer;
   color: white;
   padding: 0.75rem 1rem;
@@ -51,8 +51,8 @@ button:focus {
 
 button:hover,
 button:active {
-  background: #a80041;
-  border-color: #a80041;
+  background: lightgreen;
+  border-color: black;
 }
 
 .projects {
@@ -123,5 +123,5 @@ button:active {
   margin: 1rem;
   padding: 1rem;
   border: 1px solid red;
-  background: grey;
+  background: whitesmoke;
 }
